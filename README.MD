@@ -38,6 +38,9 @@ npm start
 > [Read docs](https://reactnavigation.org/docs/getting-started)
 > [Try the demo app](https://github.com/react-navigation/react-navigation/tree/main/example)
 
+### [EsLint](https://github.com/eslint/eslint#readme)
+
+> ESLint is a tool for identifying and reporting on patterns found in JavaScript code.
 ### [Prettier](https://github.com/prettier/prettier#readme)
 
 > Consistent code style
